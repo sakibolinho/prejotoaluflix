@@ -1,0 +1,16 @@
+body{
+    color: #efb011;
+    background: radial-gradient(black, #4b1111);
+    margin: 2px;
+}
+
+header{
+    border-bottom: solid 2px rgb(18, 93, 12, 1);
+    padding: 5px;
+    font-size: 35px;
+    color: rgb(18, 93, 12, 1);
+}
+
+section{
+    background: rgba(18, 224, 252, 0.836);
+}
